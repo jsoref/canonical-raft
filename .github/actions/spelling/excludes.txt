@@ -1,0 +1,12 @@
+^\.github/
+^\.github/actions/
+^docs/build/
+^m4/
+^src/byte\.c$
+^test/unit/test_byte\.c$
+\.doctree$
+\.gitignore$
+\.inv$
+\.pickle$
+^\.travis\.yml$
+/_?static/
